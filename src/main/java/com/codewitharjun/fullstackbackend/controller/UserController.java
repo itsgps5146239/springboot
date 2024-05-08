@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/* Created by Arjun Gautam */
+ 
 @RestController
-@CrossOrigin("http://localhost:3000")
+@CrossOrigin("https://663b5a9ed657b23641cd04c3--symphonious-beignet-9f9466.netlify.app")
 public class UserController {
 
     @Autowired
