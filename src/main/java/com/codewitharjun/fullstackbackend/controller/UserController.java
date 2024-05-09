@@ -10,7 +10,10 @@ import java.util.List;
 
  
 @RestController
+// for server deployloment
 @CrossOrigin("https://663b5a9ed657b23641cd04c3--symphonious-beignet-9f9466.netlify.app")
+// for local run
+// @CrossOrigin("http://localhost:3000")
 public class UserController {
 
     @Autowired
