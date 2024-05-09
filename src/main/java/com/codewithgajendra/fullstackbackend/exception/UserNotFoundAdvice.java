@@ -1,4 +1,4 @@
-package com.codewitharjun.fullstackbackend.exception;
+package com.codewithgajendra.fullstackbackend.exception;
  
 
 import org.springframework.http.HttpStatus;

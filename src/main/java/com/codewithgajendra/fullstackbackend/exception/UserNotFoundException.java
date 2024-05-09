@@ -1,4 +1,4 @@
-package com.codewitharjun.fullstackbackend.exception;
+package com.codewithgajendra.fullstackbackend.exception;
  
 
 public class UserNotFoundException extends RuntimeException{
